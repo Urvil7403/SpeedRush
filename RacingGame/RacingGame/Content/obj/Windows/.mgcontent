@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/BGMusic.mp3</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/Button.jpeg</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/car.png</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/coin.png</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/fuel.png</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/game-over.png</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/hole.png</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/logo.png</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/MenuBG.png</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/RegularFont.spritefont</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/road.png</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/TitleFont.spritefont</File>
+    <File>C:/Users/karti/source/repos/RacingGame/RacingGame/Content/truck.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

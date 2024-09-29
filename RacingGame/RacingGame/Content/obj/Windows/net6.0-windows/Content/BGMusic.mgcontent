@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/malav/OneDrive/Desktop/College/Game Programming/Back/RacingGame/RacingGame/Content/BGMusic.mp3</SourceFile>
+  <SourceTime>2023-12-10T15:31:17.3493631-05:00</SourceTime>
+  <DestFile>C:/Users/malav/OneDrive/Desktop/College/Game Programming/Back/RacingGame/RacingGame/Content/bin/Windows/Content/BGMusic.xnb</DestFile>
+  <DestTime>2023-12-10T15:32:42.0179741-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/malav/OneDrive/Desktop/College/Game Programming/Back/RacingGame/RacingGame/Content/bin/Windows/Content/BGMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
